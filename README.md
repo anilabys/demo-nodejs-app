@@ -5,7 +5,7 @@ Sample NodeJs Application
 
 CI/CD to test, build, push and deploy the NodeJS Dokerized app to AWS ECS using Jenkins Declarative Pipeline.
 
-### Tech Stack
+## Tech Stack
 
 1. Github
 
